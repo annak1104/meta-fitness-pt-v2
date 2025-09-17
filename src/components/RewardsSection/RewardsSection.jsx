@@ -20,35 +20,35 @@ export const RewardsSection = () => {
         {/* Іконки з текстом (вертикально) */}
         <div className="flex flex-col items-center gap-10">
           <div className="flex flex-col items-center text-center max-w-[220px]">
-            <img src={goal} alt="goal-icon" className="w-[60px] mb-4" />
+            <img src={goal} alt="goal-icon" className="w-[74px] mb-4" />
             <p className="text-xl font-bold text-[#454545]">
               Alcance sua meta de saúde com facilidade
             </p>
           </div>
 
           <div className="flex flex-col items-center text-center max-w-[220px]">
-            <img src={stopwatch} alt="stopwatch-icon" className="w-[60px] mb-4" />
+            <img src={stopwatch} alt="stopwatch-icon" className="w-[74px] mb-4" />
             <p className="text-xl font-bold text-[#454545]">
               Cozinhe refeições rápidas, saudáveis e super saborosas
             </p>
           </div>
 
           <div className="flex flex-col items-center text-center max-w-[220px]">
-            <img src={diet} alt="diet-icon" className="w-[60px] mb-4" />
+            <img src={diet} alt="diet-icon" className="w-[74px] mb-4" />
             <p className="text-xl font-bold text-[#454545]">
               Crie hábitos que realmente duram no dia a dia
             </p>
           </div>
 
           <div className="flex flex-col items-center text-center max-w-[220px]">
-            <img src={money} alt="money-icon" className="w-[60px] mb-4" />
+            <img src={money} alt="money-icon" className="w-[74px] mb-4" />
             <p className="text-xl font-bold text-[#454545]">
               Acesso ao programma de indicação (25% de comissão por venda)
             </p>
           </div>
 
           <div className="flex flex-col items-center text-center max-w-[220px]">
-            <img src={partners} alt="partners-icon" className="w-[60px] mb-4" />
+            <img src={partners} alt="partners-icon" className="w-[74px] mb-4" />
             <p className="text-xl font-bold text-[#454545]">
               Acesso a uma comunidade de apoio no Telegram
             </p>
