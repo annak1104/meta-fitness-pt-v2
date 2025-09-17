@@ -110,15 +110,6 @@ export default function FaqAccordion() {
       aria-labelledby="faq-title"
       className="relative bg-[#493F3B] text-white py-16 md:py-20"
     >
-      {/* background */}
-      <img
-        src="/faqBackground.jpg"
-        alt=""
-        aria-hidden="true"
-        className="pointer-events-none absolute inset-0 w-full h-full object-cover opacity-20"
-        style={{ filter: "blur(2px) brightness(0.35)" }}
-      />
-
       <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="mb-10 text-center">
           <h1
